@@ -1,0 +1,7 @@
+body {
+  padding: 50px;font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; color: black; background-color: lightsteelblue;
+   }
+   .imgperfil img{
+    width: 45%;
+    border-radius: 100%;
+    margin-left: 30%;   }
